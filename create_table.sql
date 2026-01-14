@@ -3,3 +3,5 @@ CREATE TABLE my_table (
     name VARCHAR(100),
     created_at TIMESTAMP
 );
+
+-- Comment
